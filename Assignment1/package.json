@@ -1,0 +1,28 @@
+{
+  "name": "assignment-1-kimtaes",
+  "version": "1.0.0",
+  "description": "assignment1",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/osu-cs493-sp22/assignment-1-kimtaes.git"
+  },
+  "author": "Taesoo <kimtaes@oregonstate.edu>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/osu-cs493-sp22/assignment-1-kimtaes/issues"
+  },
+  "homepage": "https://github.com/osu-cs493-sp22/assignment-1-kimtaes#readme",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "express": "^4.17.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}

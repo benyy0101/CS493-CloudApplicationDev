@@ -1,0 +1,14 @@
+[
+    {
+        "BusinessId":1,
+        "StarRating":1,
+        "PriceRating":"$$$",
+        "WrittenReview":"Not bad"
+    },
+    {
+        "BusinessId":2,
+        "StarRating":2,
+        "PriceRating":"$$$",
+        "WrittenReview":"Not bad"
+    }
+]

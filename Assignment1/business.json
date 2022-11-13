@@ -1,0 +1,55 @@
+[
+    {
+        "ID": 1,
+        "Name": "Example 1",
+        "Address": "671 SW 26th St",
+        "City": "Corvallis",
+        "State": "OR",
+        "ZIP":"97333",
+        "Phone":"321-321-4321",
+        "Category":"Restaurant",
+        "Subcategory":"Pizza",
+        "Website":"Optional",
+        "Email":"Optional"
+    },
+    {
+        "ID": 2,
+        "Name": "Example 2",
+        "Address": "671 SW 26th St",
+        "City": "Corvallis",
+        "State": "OR",
+        "ZIP":"97333",
+        "Phone":"321-321-4321",
+        "Category":"Restaurant",
+        "Subcategory":"Ice cream",
+        "Website":"Optional",
+        "Email":"Optional"
+    },
+    {
+        "ID": 3,
+        "Name": "Example 3",
+        "Address": "671 SW 26th St",
+        "City": "Corvallis",
+        "State": "OR",
+        "ZIP":"97333",
+        "Phone":"321-321-4321",
+        "Category":"Restaurant",
+        "Subcategory":"Sushi",
+        "Website":"Optional",
+        "Email":"Optional"
+    },
+    {
+        "ID": 4,
+        "Name": "Example 4",
+        "Address": "671 SW 26th St",
+        "City": "Corvallis",
+        "State": "OR",
+        "ZIP":"97333",
+        "Phone":"321-321-4321",
+        "Category":"Restaurant",
+        "Subcategory":"Hamburger",
+        "Website":"Optional",
+        "Email":"Optional"
+    }
+
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "BusinessId":1,
+        "Photo":"image.png",
+        "Caption":"Pizza"
+    },
+    {
+        "BusinessId":2,
+        "Photo":"image.png",
+        "Caption":"Ice cream"
+    },
+    {
+        "BusinessId":3,
+        "Photo":"image.png",
+        "Caption":"Coffee"
+    }
+
+]
