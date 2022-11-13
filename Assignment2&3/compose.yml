@@ -1,0 +1,19 @@
+services:
+  db:
+    build: 
+      image: mysql
+      
+    environment:
+      - PORT=3306
+      - MYSQL_USER: 'yelp'
+      - 
+  api:
+    build: .
+    environment:
+      - DB_HOST=db
+      - DB_PORT=3306
+      - PORT=8080
+    ports:
+      - "8090:8080"
+
+
